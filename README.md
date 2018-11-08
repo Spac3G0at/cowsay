@@ -1,4 +1,4 @@
 # cowsay
 
-npm install cowsay
+npm install cowsay <br>
 node index.js
